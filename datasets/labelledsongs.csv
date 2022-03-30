@@ -1,0 +1,501 @@
+Index,Name,Artist,Album,Mood
+0,Shooting Star,Shooting Star,Shooting Star,Sad
+1,Space and Time,Shooting Star,Space and Time,Calm
+2,Everything Ends,Shooting Star,Everything Ends,Sad
+3,Interrupted,What Another Man Spills,Interrupted,Calm
+4,Saturday Option,What Another Man Spills,Saturday Option,Sad
+5,Shucks,What Another Man Spills,Shucks,Sad
+6,Give Me Your Love (Love Song),What Another Man Spills,Give Me Your Love (Love Song),Happy
+7,Life #2,What Another Man Spills,Life #2,Sad
+8,Scamper,What Another Man Spills,Scamper,Sad
+9,It's Not Alright,What Another Man Spills,It's Not Alright,Sad
+10,N.O.,What Another Man Spills,N.O.,Sad
+11,I've Been Lonely For So Long,What Another Man Spills,I've Been Lonely For So Long,Sad
+12,Magnificent Obsession,What Another Man Spills,Magnificent Obsession,Sad
+13,King Of Nothing Never,What Another Man Spills,King Of Nothing Never,Sad
+14,Theme From The Neil Miller Show,What Another Man Spills,Theme From The Neil Miller Show,Happy
+15,Begin,I Hope You're Sitting Down,Begin,Sad
+16,Betweemus,I Hope You're Sitting Down,Betweemus,Happy
+17,Soaky In the Pooper,I Hope You're Sitting Down,Soaky In the Pooper,Calm
+18,Because You Are the Very Air He Breathes,I Hope You're Sitting Down,Because You Are the Very Air He Breathes,Sad
+19,Under the Same Moon,I Hope You're Sitting Down,Under the Same Moon,Sad
+20,I Will Drive Slowly,I Hope You're Sitting Down,I Will Drive Slowly,Sad
+21,"Oh, What a Disappointment",I Hope You're Sitting Down,"Oh, What a Disappointment",Happy
+22,Hellmouth,I Hope You're Sitting Down,Hellmouth,Sad
+23,"Bon Soir, Bon Soir",I Hope You're Sitting Down,"Bon Soir, Bon Soir",Sad
+24,Hickey,I Hope You're Sitting Down,Hickey,Sad
+25,Breathe Deep,I Hope You're Sitting Down,Breathe Deep,Sad
+26,So I Hear You're Moving,I Hope You're Sitting Down,So I Hear You're Moving,Sad
+27,Let's Go Bowling,I Hope You're Sitting Down,Let's Go Bowling,Sad
+28,What Was He Wearing?,I Hope You're Sitting Down,What Was He Wearing?,Sad
+29,Cowboy On the Moon,I Hope You're Sitting Down,Cowboy On the Moon,Sad
+30,The Pack-Up Song,I Hope You're Sitting Down,The Pack-Up Song,Sad
+31,Salle des pas perdus,Salle des pas perdus,Salle des pas perdus,Sad
+32,L'ombre et la lumière,Salle des pas perdus,L'ombre et la lumière,Sad
+33,Ça valait la peine,Salle des pas perdus,Ça valait la peine,Sad
+34,La contradiction,Salle des pas perdus,La contradiction,Sad
+35,La mer opale,Salle des pas perdus,La mer opale,Happy
+36,A l'occasion tu souris,Salle des pas perdus,A l'occasion tu souris,Sad
+37,Samba de mon cœur qui bat,Salle des pas perdus,Samba de mon cœur qui bat,Sad
+38,Ces matins d'été,Salle des pas perdus,Ces matins d'été,Sad
+39,Le dernier train,Salle des pas perdus,Le dernier train,Sad
+40,Lou,Salle des pas perdus,Lou,Sad
+41,Le jazz et le gin,Salle des pas perdus,Le jazz et le gin,Sad
+42,Bientôt,Salle des pas perdus,Bientôt,Happy
+43,Mes fenêtres donnent sur la cour,Salle des pas perdus,Mes fenêtres donnent sur la cour,Sad
+44,God Finds Us,God Finds Us,God Finds Us,Sad
+45,Run Baby Run (Jonah),God Finds Us,Run Baby Run (Jonah),Sad
+46,Trust Once More,God Finds Us,Trust Once More,Sad
+47,The Road to Emmaus,God Finds Us,The Road to Emmaus,Sad
+48,Write Every Day Down,God Finds Us,Write Every Day Down,Sad
+49,Traveler,God Finds Us,Traveler,Happy
+50,A Hammer and an Awkward Nail,God Finds Us,A Hammer and an Awkward Nail,Sad
+51,Grow,God Finds Us,Grow,Sad
+52,Forgiveness,God Finds Us,Forgiveness,Sad
+53,Everything You Do,God Finds Us,Everything You Do,Sad
+54,Patient,Patient,Patient,Energetic
+55,The New Year,Transatlanticism,The New Year,Energetic
+56,Lightness,Transatlanticism,Lightness,Sad
+57,Title and Registration,Transatlanticism,Title and Registration,Happy
+58,Expo '86,Transatlanticism,Expo '86,Happy
+59,The Sound of Settling,Transatlanticism,The Sound of Settling,Energetic
+60,Tiny Vessels,Transatlanticism,Tiny Vessels,Sad
+61,Transatlanticism,Transatlanticism,Transatlanticism,Sad
+62,Passenger Seat,Transatlanticism,Passenger Seat,Sad
+63,Death of an Interior Decorator,Transatlanticism,Death of an Interior Decorator,Happy
+64,We Looked Like Giants,Transatlanticism,We Looked Like Giants,Happy
+65,A Lack of Color,Transatlanticism,A Lack of Color,Sad
+66,Overjoyed,"Furthermore: From the Studio, From the Stage",Overjoyed,Happy
+67,Something Beautiful,"Furthermore: From the Studio, From the Stage",Something Beautiful,Happy
+68,The Valley Song (Sing of Your Mercy),"Furthermore: From the Studio, From the Stage",The Valley Song (Sing of Your Mercy),Energetic
+69,Liquid,"Furthermore: From the Studio, From the Stage",Liquid,Sad
+70,The Eleventh Hour,"Furthermore: From the Studio, From the Stage",The Eleventh Hour,Happy
+71,Dig,"Furthermore: From the Studio, From the Stage",Dig,Sad
+72,Redemption,"Furthermore: From the Studio, From the Stage",Redemption,Sad
+73,Love Song For a Savior,"Furthermore: From the Studio, From the Stage",Love Song For a Savior,Energetic
+74,Frail,"Furthermore: From the Studio, From the Stage",Frail,Happy
+75,Needful Hands,"Furthermore: From the Studio, From the Stage",Needful Hands,Sad
+76,Disappear - Live From The Eleventh Hour Tour,"Furthermore: From the Studio, From the Stage",Disappear - Live From The Eleventh Hour Tour,Energetic
+77,Like a Child - Live From The Eleventh Hour Tour,"Furthermore: From the Studio, From the Stage",Like a Child - Live From The Eleventh Hour Tour,Energetic
+78,Crazy Times - Live From The Eleventh Hour Tour,"Furthermore: From the Studio, From the Stage",Crazy Times - Live From The Eleventh Hour Tour,Energetic
+79,I Need You - Live From The Eleventh Hour Tour,"Furthermore: From the Studio, From the Stage",I Need You - Live From The Eleventh Hour Tour,Energetic
+80,The Eleventh Hour - Live From The Eleventh Hour Tour,"Furthermore: From the Studio, From the Stage",The Eleventh Hour - Live From The Eleventh Hour Tour,Energetic
+81,This Road - Live From The Eleventh Hour Tour,"Furthermore: From the Studio, From the Stage",This Road - Live From The Eleventh Hour Tour,Sad
+82,Fly - Live From The Eleventh Hour Tour,"Furthermore: From the Studio, From the Stage",Fly - Live From The Eleventh Hour Tour,Energetic
+83,I'm Alright - Live From The Eleventh Hour Tour,"Furthermore: From the Studio, From the Stage",I'm Alright - Live From The Eleventh Hour Tour,Energetic
+84,Revolution - Live From The Eleventh Hour Tour,"Furthermore: From the Studio, From the Stage",Revolution - Live From The Eleventh Hour Tour,Energetic
+85,Flood - Live From The Eleventh Hour Tour,"Furthermore: From the Studio, From the Stage",Flood - Live From The Eleventh Hour Tour,Energetic
+86,Worlds Apart - Live From The Eleventh Hour Tour,"Furthermore: From the Studio, From the Stage",Worlds Apart - Live From The Eleventh Hour Tour,Sad
+87,Misery,Let Your Dim Light Shine,Misery,Happy
+88,Shut Down,Let Your Dim Light Shine,Shut Down,Energetic
+89,To My Own Devices,Let Your Dim Light Shine,To My Own Devices,Happy
+90,Hopes Up,Let Your Dim Light Shine,Hopes Up,Energetic
+91,Promises Broken,Let Your Dim Light Shine,Promises Broken,Happy
+92,Bittersweetheart,Let Your Dim Light Shine,Bittersweetheart,Happy
+93,String of Pearls,Let Your Dim Light Shine,String of Pearls,Happy
+94,Crawl,Let Your Dim Light Shine,Crawl,Happy
+95,Caged Rat,Let Your Dim Light Shine,Caged Rat,Happy
+96,Eyes Of A Child,Let Your Dim Light Shine,Eyes Of A Child,Sad
+97,Just Like Anyone,Let Your Dim Light Shine,Just Like Anyone,Energetic
+98,Tell Me When,Let Your Dim Light Shine,Tell Me When,Happy
+99,Nothing To Write Home About,Let Your Dim Light Shine,Nothing To Write Home About,Energetic
+100,I Did My Best,Let Your Dim Light Shine,I Did My Best,Happy
+101,Torn,Left Of The Middle,Torn,Energetic
+102,One More Addiction,Left Of The Middle,One More Addiction,Energetic
+103,Big Mistake,Left Of The Middle,Big Mistake,Sad
+104,Leave Me Alone,Left Of The Middle,Leave Me Alone,Happy
+105,Wishing I Was There,Left Of The Middle,Wishing I Was There,Happy
+106,Smoke,Left Of The Middle,Smoke,Happy
+107,Pigeons And Crumbs,Left Of The Middle,Pigeons And Crumbs,Happy
+108,Don't You Think?,Left Of The Middle,Don't You Think?,Energetic
+109,Impressed,Left Of The Middle,Impressed,Happy
+110,Intuition,Left Of The Middle,Intuition,Energetic
+111,City,Left Of The Middle,City,Energetic
+112,Left Of The Middle,Left Of The Middle,Left Of The Middle,Sad
+113,Calls,Calls,Calls,Calm
+114,3rd Planet,The Moon & Antarctica,3rd Planet,Happy
+115,Gravity Rides Everything,The Moon & Antarctica,Gravity Rides Everything,Sad
+116,Dark Center Of The Universe,The Moon & Antarctica,Dark Center Of The Universe,Energetic
+117,Perfect Disguise,The Moon & Antarctica,Perfect Disguise,Sad
+118,Tiny Cities Made Of Ashes,The Moon & Antarctica,Tiny Cities Made Of Ashes,Happy
+119,A Different City,The Moon & Antarctica,A Different City,Energetic
+120,The Cold Part,The Moon & Antarctica,The Cold Part,Sad
+121,Alone Down There,The Moon & Antarctica,Alone Down There,Energetic
+122,The Stars Are Projectors,The Moon & Antarctica,The Stars Are Projectors,Sad
+123,Wild Packs of Family Dogs,The Moon & Antarctica,Wild Packs of Family Dogs,Sad
+124,Paper Thin Walls,The Moon & Antarctica,Paper Thin Walls,Happy
+125,I Came As a Rat,The Moon & Antarctica,I Came As a Rat,Happy
+126,Lives,The Moon & Antarctica,Lives,Sad
+127,Life Like Weeds,The Moon & Antarctica,Life Like Weeds,Sad
+128,What People Are Made Of,The Moon & Antarctica,What People Are Made Of,Energetic
+129,Easy Like Spring,Rooftops,Easy Like Spring,Sad
+130,Rooftops,Rooftops,Rooftops,Sad
+131,Dance of the Shingle People,Rooftops,Dance of the Shingle People,Sad
+132,Hot Tin,Rooftops,Hot Tin,Sad
+133,With Every Smile,Rooftops,With Every Smile,Sad
+134,Windstar,Rooftops,Windstar,Sad
+135,Fire Escape,Rooftops,Fire Escape,Sad
+136,Waiting for the Sky,Rooftops,Waiting for the Sky,Sad
+137,Dr. Music,Mirrors,Dr. Music,Happy
+138,The Great Sun Jester,Mirrors,The Great Sun Jester,Happy
+139,In Thee,Mirrors,In Thee,Happy
+140,Mirrors,Mirrors,Mirrors,Happy
+141,Moon Crazy,Mirrors,Moon Crazy,Happy
+142,The Vigil,Mirrors,The Vigil,Happy
+143,I Am the Storm,Mirrors,I Am the Storm,Happy
+144,You're Not the One (I Was Looking For),Mirrors,You're Not the One (I Was Looking For),Happy
+145,Lonely Teardrops,Mirrors,Lonely Teardrops,Happy
+146,Unholy Water,Sister Sadie,Unholy Water,Sad
+147,Don't Tell Me Stories,Sister Sadie,Don't Tell Me Stories,Happy
+148,Don't Let Me Cross Over,Sister Sadie,Don't Let Me Cross Over,Sad
+149,Ava's Fury,Sister Sadie,Ava's Fury,Sad
+150,Falling,Sister Sadie,Falling,Sad
+151,Now Forever's Gone,Sister Sadie,Now Forever's Gone,Happy
+152,Look What I'm Trading For a Mansion,Sister Sadie,Look What I'm Trading For a Mansion,Sad
+153,I May Be A Fool,Sister Sadie,I May Be A Fool,Happy
+154,Not This Time,Sister Sadie,Not This Time,Happy
+155,All I Can Do,Sister Sadie,All I Can Do,Happy
+156,Mama's Room,Sister Sadie,Mama's Room,Sad
+157,Blood Red & Goin' Down,Sister Sadie,Blood Red & Goin' Down,Sad
+158,Chattanooga Choo Choo,Western Standard Time,Chattanooga Choo Choo,Sad
+159,Don't Let Go,Western Standard Time,Don't Let Go,Happy
+160,Hot Rod Lincoln,Western Standard Time,Hot Rod Lincoln,Happy
+161,That's What I Like 'Bout The South,Western Standard Time,That's What I Like 'Bout The South,Happy
+162,That Lucky Old Sun (Just Rools Around Heaven All Day),Western Standard Time,That Lucky Old Sun (Just Rools Around Heaven All Day),Sad
+163,Walk On By,Western Standard Time,Walk On By,Happy
+164,San Antonio Rose,Western Standard Time,San Antonio Rose,Happy
+165,Roly Poly,Western Standard Time,Roly Poly,Happy
+166,Sugarfoot Rag,Western Standard Time,Sugarfoot Rag,Sad
+167,Walking The Floor Over You,Western Standard Time,Walking The Floor Over You,Happy
+168,The First Song,Ultimate Alternative Wavers,The First Song,Happy
+169,Three Years Ago Today,Ultimate Alternative Wavers,Three Years Ago Today,Happy
+170,Revolution,Ultimate Alternative Wavers,Revolution,Sad
+171,Shameful Dread,Ultimate Alternative Wavers,Shameful Dread,Sad
+172,Nowhere Nothin' Fuckup,Ultimate Alternative Wavers,Nowhere Nothin' Fuckup,Sad
+173,Get A Life,Ultimate Alternative Wavers,Get A Life,Sad
+174,Built To Spill,Ultimate Alternative Wavers,Built To Spill,Sad
+175,Lie For A Lie,Ultimate Alternative Wavers,Lie For A Lie,Happy
+176,Hazy,Ultimate Alternative Wavers,Hazy,Sad
+177,Built Too Long,Ultimate Alternative Wavers,Built Too Long,Sad
+178,"Piano Sonata No. 2 in B-Flat Minor, Op. 35 ""Funeral March"": I. Grave - Doppio movimento","Favorite Chopin, Vol. 2","Piano Sonata No. 2 in B-Flat Minor, Op. 35 ""Funeral March"": I. Grave - Doppio movimento",Calm
+179,"Piano Sonata No. 2 in B-Flat Minor, Op. 35 ""Funeral March"": II. Scherzo","Favorite Chopin, Vol. 2","Piano Sonata No. 2 in B-Flat Minor, Op. 35 ""Funeral March"": II. Scherzo",Calm
+180,"Piano Sonata No. 2 in B-Flat Minor, Op. 35 ""Funeral March"": III. Marche funèbre. Lento","Favorite Chopin, Vol. 2","Piano Sonata No. 2 in B-Flat Minor, Op. 35 ""Funeral March"": III. Marche funèbre. Lento",Calm
+181,"Piano Sonata No. 2 in B-Flat Minor, Op. 35 ""Funeral March"": IV. Finale. Presto","Favorite Chopin, Vol. 2","Piano Sonata No. 2 in B-Flat Minor, Op. 35 ""Funeral March"": IV. Finale. Presto",Calm
+182,"Polonaise-Fantaisie in A-Flat Major, Op. 61","Favorite Chopin, Vol. 2","Polonaise-Fantaisie in A-Flat Major, Op. 61",Sad
+183,"12 Études, Op. 25: No. 7 in C-Sharp Minor","Favorite Chopin, Vol. 2","12 Études, Op. 25: No. 7 in C-Sharp Minor",Calm
+184,"Mazurka in C-Sharp Minor, Op. 50, No. 3","Favorite Chopin, Vol. 2","Mazurka in C-Sharp Minor, Op. 50, No. 3",Calm
+185,"Nocturne No. 19 in E Minor, Op. 72, No. 1","Favorite Chopin, Vol. 2","Nocturne No. 19 in E Minor, Op. 72, No. 1",Calm
+186,"Mazurkas, Op. 33: No. 4 in B Minor","Favorite Chopin, Vol. 2","Mazurkas, Op. 33: No. 4 in B Minor",Calm
+187,"Polonaise No. 5 in F-Sharp Minor, Op. 44","Favorite Chopin, Vol. 2","Polonaise No. 5 in F-Sharp Minor, Op. 44",Sad
+188,Silence,Jack's Crows,Silence,Sad
+189,Treasure Islands,Jack's Crows,Treasure Islands,Sad
+190,Jack's Crows,Jack's Crows,Jack's Crows,Sad
+191,Houses in the Fields,Jack's Crows,Houses in the Fields,Sad
+192,The Mercy of the Wheels,Jack's Crows,The Mercy of the Wheels,Sad
+193,Good,Jack's Crows,Good,Happy
+194,Semper Fi,Jack's Crows,Semper Fi,Sad
+195,Where the Bottles Break,Jack's Crows,Where the Bottles Break,Sad
+196,Night is a Woman,Jack's Crows,Night is a Woman,Sad
+197,I'm From New Jersey,Jack's Crows,I'm From New Jersey,Sad
+198,My New Neighborhood,Jack's Crows,My New Neighborhood,Sad
+199,The Ballad of Jamie Bee,Jack's Crows,The Ballad of Jamie Bee,Sad
+200,You're On Your Way,Jack's Crows,You're On Your Way,Sad
+201,Good Noise,Out Of The Valley,Good Noise,Happy
+202,That's Why,Out Of The Valley,That's Why,Sad
+203,Carnival Knowledge (second hand face),Out Of The Valley,Carnival Knowledge (second hand face),Sad
+204,Talk About Love,Out Of The Valley,Talk About Love,Happy
+205,Bigtime Lonesome,Out Of The Valley,Bigtime Lonesome,Sad
+206,Furniture,Out Of The Valley,Furniture,Sad
+207,Mystery To Me,Out Of The Valley,Mystery To Me,Happy
+208,Out Of The Valley,Out Of The Valley,Out Of The Valley,Sad
+209,Thoughtless Behaviour,Out Of The Valley,Thoughtless Behaviour,Sad
+210,Always Going Home,Out Of The Valley,Always Going Home,Sad
+211,Flying Red Horse,Out Of The Valley,Flying Red Horse,Sad
+212,Up Until Then,Out Of The Valley,Up Until Then,Happy
+213,Lightning's Blues,Between Five And Seven,Lightning's Blues,Happy
+214,Blue Chalk,Between Five And Seven,Blue Chalk,Sad
+215,Can't Make Up My Mind,Between Five And Seven,Can't Make Up My Mind,Sad
+216,The Mortal Groove,Between Five And Seven,The Mortal Groove,Sad
+217,My Invisible Gun,Between Five And Seven,My Invisible Gun,Sad
+218,Part Of Your Own,Between Five And Seven,Part Of Your Own,Sad
+219,Two Good Reasons,Between Five And Seven,Two Good Reasons,Sad
+220,Airstream Bohemians,Between Five And Seven,Airstream Bohemians,Sad
+221,"Paradise, Once",Between Five And Seven,"Paradise, Once",Sad
+222,Campaign Trail,Between Five And Seven,Campaign Trail,Sad
+223,Edgar The Party Man,Between Five And Seven,Edgar The Party Man,Happy
+224,Scraping Dixie,Between Five And Seven,Scraping Dixie,Sad
+225,Mailbox Suite,Rain Maiden,Mailbox Suite,Sad
+226,The Christmas Soldier,Rain Maiden,The Christmas Soldier,Calm
+227,Neustros Hermanos De El Salvador,Rain Maiden,Neustros Hermanos De El Salvador,Sad
+228,Song for the Children,Rain Maiden,Song for the Children,Calm
+229,Front Porch Serenade,Rain Maiden,Front Porch Serenade,Sad
+230,Daybreak,Rain Maiden,Daybreak,Sad
+231,Taylor Made,Rain Maiden,Taylor Made,Calm
+232,Rain Maiden,Rain Maiden,Rain Maiden,Calm
+233,Land of the Redwoods,Rain Maiden,Land of the Redwoods,Sad
+234,Waltz of the Wind,Rain Maiden,Waltz of the Wind,Calm
+235,High Noon,Rain Maiden,High Noon,Sad
+236,Sand Harbor,Rain Maiden,Sand Harbor,Calm
+237,Back At Linda's,Rain Maiden,Back At Linda's,Sad
+238,Ethan's Peace,Rain Maiden,Ethan's Peace,Calm
+239,Lucid Dreaming,Spaced Out,Lucid Dreaming,Happy
+240,Hydroponic Garden,Spaced Out,Hydroponic Garden,Calm
+241,Sacred Mushrooms,Spaced Out,Sacred Mushrooms,Sad
+242,We Are All One,Spaced Out,We Are All One,Sad
+243,Spaced Out,Spaced Out,Spaced Out,Sad
+244,Lost,Spaced Out,Lost,Sad
+245,Ecstasy,Spaced Out,Ecstasy,Calm
+246,Ego Death,Spaced Out,Ego Death,Calm
+247,Nirvana,Spaced Out,Nirvana,Calm
+248,The Psychedelic Experience Pt. I,Spaced Out,The Psychedelic Experience Pt. I,Calm
+249,The Psychedelic Experience Pt. II,Spaced Out,The Psychedelic Experience Pt. II,Calm
+250,Platforms,Educated Guess,Platforms,Happy
+251,Swim,Educated Guess,Swim,Sad
+252,Educated Guess,Educated Guess,Educated Guess,Sad
+253,Origami,Educated Guess,Origami,Sad
+254,Bliss Like This,Educated Guess,Bliss Like This,Sad
+255,The True Story of What Was,Educated Guess,The True Story of What Was,Sad
+256,Bodily,Educated Guess,Bodily,Sad
+257,You Each Time,Educated Guess,You Each Time,Sad
+258,Animal,Educated Guess,Animal,Sad
+259,Grand Canyon,Educated Guess,Grand Canyon,Sad
+260,Company,Educated Guess,Company,Sad
+261,Rain Check,Educated Guess,Rain Check,Sad
+262,Akimbo,Educated Guess,Akimbo,Sad
+263,Bubble,Educated Guess,Bubble,Sad
+264,Danserye: La Morisque,30th Anniversary Sampler,Danserye: La Morisque,Calm
+265,"2 Romanian Rhapsodies, Op. 11: No. 1 in A Major",30th Anniversary Sampler,"2 Romanian Rhapsodies, Op. 11: No. 1 in A Major",Sad
+266,Mestizo Waltz,30th Anniversary Sampler,Mestizo Waltz,Calm
+267,"Prelude on the name B-A-C-H, S260/R381",30th Anniversary Sampler,"Prelude on the name B-A-C-H, S260/R381",Calm
+268,"Symphonic Dances, Op. 45: III. Lento assai - Allegro vivace - Lento assai - Come prima - Allegro vivace",30th Anniversary Sampler,"Symphonic Dances, Op. 45: III. Lento assai - Allegro vivace - Lento assai - Come prima - Allegro vivace",Sad
+269,"Paraphrase de concert sur Rigoletto, S. 434: Verdi - Rigoletto: Paraphrase de concert, S434/R267",30th Anniversary Sampler,"Paraphrase de concert sur Rigoletto, S. 434: Verdi - Rigoletto: Paraphrase de concert, S434/R267",Calm
+270,"In Praise of Music: No. 5. For the Angel, ""Israfel""",30th Anniversary Sampler,"In Praise of Music: No. 5. For the Angel, ""Israfel""",Calm
+271,An American Requiem: Dies Irae,30th Anniversary Sampler,An American Requiem: Dies Irae,Sad
+272,Concerto Nicolo (excerpt),30th Anniversary Sampler,Concerto Nicolo (excerpt),Calm
+273,Ikon of Eros (excerpt),30th Anniversary Sampler,Ikon of Eros (excerpt),Sad
+274,"Prelude in D Major, BWV 532",30th Anniversary Sampler,"Prelude in D Major, BWV 532",Calm
+275,3 Gymnopedies: No. 1. Lent et douloureux (orch. Debussy),30th Anniversary Sampler,3 Gymnopedies: No. 1. Lent et douloureux (orch. Debussy),Calm
+276,"Pini di Roma (Pines of Rome), P. 141",30th Anniversary Sampler,"Pini di Roma (Pines of Rome), P. 141",Calm
+277,Tears,Greatest Hits,Tears,Happy
+278,You're Between Me,Greatest Hits,You're Between Me,Sad
+279,It's All on Me,Greatest Hits,It's All on Me,Sad
+280,Woman,Greatest Hits,Woman,Happy
+281,Falling in and out of Love,Greatest Hits,Falling in and out of Love,Sad
+282,Amie,Greatest Hits,Amie,Sad
+283,Jazzman,Greatest Hits,Jazzman,Sad
+284,Early Morning Riser,Greatest Hits,Early Morning Riser,Happy
+285,Angel #9,Greatest Hits,Angel #9,Energetic
+286,Boulder Skies,Greatest Hits,Boulder Skies,Sad
+287,"Call Me, Tell Me",Greatest Hits,"Call Me, Tell Me",Sad
+288,Angel,Greatest Hits,Angel,Sad
+289,She Darked The Sun,Greatest Hits,She Darked The Sun,Happy
+290,Just Can't Believe It,Greatest Hits,Just Can't Believe It,Sad
+291,Two Lane Highway,Greatest Hits,Two Lane Highway,Happy
+292,That'll Be the Day,Greatest Hits,That'll Be the Day,Happy
+293,Goin' Home,Greatest Hits,Goin' Home,Sad
+294,Hello,Drowning By Proxy,Hello,Calm
+295,Drowning By Proxy,Drowning By Proxy,Drowning By Proxy,Happy
+296,The New Rage,Drowning By Proxy,The New Rage,Calm
+297,Recall,Drowning By Proxy,Recall,Happy
+298,Burn the Other Hand,Drowning By Proxy,Burn the Other Hand,Happy
+299,Red Tangle (Version),Drowning By Proxy,Red Tangle (Version),Calm
+300,Simple,Drowning By Proxy,Simple,Sad
+301,Cut,Drowning By Proxy,Cut,Sad
+302,Ride Into the Sun,Drowning By Proxy,Ride Into the Sun,Sad
+303,Sunset Gun,Drowning By Proxy,Sunset Gun,Sad
+304,Strange,Drowning By Proxy,Strange,Calm
+305,Home,Drowning By Proxy,Home,Calm
+306,(You'll Be) Satisfied,Annunciation,(You'll Be) Satisfied,Happy
+307,Why Can't I Forget About You,Annunciation,Why Can't I Forget About You,Sad
+308,Angel To Be,Annunciation,Angel To Be,Happy
+309,I Know,Annunciation,I Know,Happy
+310,Late At Night,Annunciation,Late At Night,Happy
+311,Miss Love,Annunciation,Miss Love,Happy
+312,Poverty,Annunciation,Poverty,Happy
+313,Message Man,Annunciation,Message Man,Happy
+314,Save Me,Annunciation,Save Me,Sad
+315,Fountains Flow,Annunciation,Fountains Flow,Energetic
+316,Cold Nights,Annunciation,Cold Nights,Sad
+317,Sugar Pie,Annunciation,Sugar Pie,Sad
+318,It's So Hard,Annunciation,It's So Hard,Sad
+319,Ases y Tercia de Reyes,Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitlán),Ases y Tercia de Reyes,Happy
+320,Lágrimas y Lluvia,Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitlán),Lágrimas y Lluvia,Sad
+321,Se Me Olvidó Otra Vez,Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitlán),Se Me Olvidó Otra Vez,Sad
+322,Esta Noche Voy a Verla,Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitlán),Esta Noche Voy a Verla,Happy
+323,La Muerte del Palomo,Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitlán),La Muerte del Palomo,Sad
+324,Estoy Enamorado de Ti,Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitlán),Estoy Enamorado de Ti,Happy
+325,Qué Chasco Me Llevé,Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitlán),Qué Chasco Me Llevé,Happy
+326,Que Sea Mi Condena,Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitlán),Que Sea Mi Condena,Happy
+327,Si Dios Me Ayuda,Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitlán),Si Dios Me Ayuda,Sad
+328,¿Dónde Andará?,Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitlán),¿Dónde Andará?,Happy
+329,Mañana Te Acordaras,Con El Mariachi Vargas De Tecalitlan (with El Mariachi Vargas de Tecalitlán),Mañana Te Acordaras,Sad
+330,The End Is The Same As The Beginning,La Place Demon,The End Is The Same As The Beginning,Calm
+331,The Three Doors Pt. 1,La Place Demon,The Three Doors Pt. 1,Sad
+332,Calaca,La Place Demon,Calaca,Sad
+333,Violent Collaborations Pt. 1,La Place Demon,Violent Collaborations Pt. 1,Sad
+334,The Three Doors Pt. 2,La Place Demon,The Three Doors Pt. 2,Sad
+335,Violent Collaborations Pt. 2,La Place Demon,Violent Collaborations Pt. 2,Sad
+336,Lonely Woman/Exit La Place Demon/The Electronic Family,La Place Demon,Lonely Woman/Exit La Place Demon/The Electronic Family,Sad
+337,The Three Doors Pt. 3,La Place Demon,The Three Doors Pt. 3,Sad
+338,Ghost Allaround,La Place Demon,Ghost Allaround,Sad
+339,Lash the Nineties,Generation Starwars,Lash the Nineties,Sad
+340,Stahl Und Blausaure,Generation Starwars,Stahl Und Blausaure,Happy
+341,13465,Generation Starwars,13465,Calm
+342,Maschinenvolk,Generation Starwars,Maschinenvolk,Happy
+343,Sonyprostitutes,Generation Starwars,Sonyprostitutes,Happy
+344,Bluterote Nacht Uber Berlin,Generation Starwars,Bluterote Nacht Uber Berlin,Happy
+345,Pussy Heroin,Generation Starwars,Pussy Heroin,Calm
+346,New Acid,Generation Starwars,New Acid,Sad
+347,Smack,Generation Starwars,Smack,Calm
+348,N.Y. Summer 1,Generation Starwars,N.Y. Summer 1,Sad
+349,Konsumfreiheit,Generation Starwars,Konsumfreiheit,Sad
+350,Microchipkinder,Generation Starwars,Microchipkinder,Happy
+351,Sieg Uber Die Mayday,Generation Starwars,Sieg Uber Die Mayday,Energetic
+352,Playback Play,Kagel: Playback Play,Playback Play,Sad
+353,Grass String Ranch,Songs From The Grass String Ranch,Grass String Ranch,Happy
+354,Back To The Sun,Songs From The Grass String Ranch,Back To The Sun,Sad
+355,Jessico,Songs From The Grass String Ranch,Jessico,Happy
+356,Once In A While,Songs From The Grass String Ranch,Once In A While,Happy
+357,Love That Woman,Songs From The Grass String Ranch,Love That Woman,Happy
+358,Too Much To Lose,Songs From The Grass String Ranch,Too Much To Lose,Sad
+359,Louisianna Coco,Songs From The Grass String Ranch,Louisianna Coco,Energetic
+360,Country Life,Songs From The Grass String Ranch,Country Life,Happy
+361,Dry-land Fish,Songs From The Grass String Ranch,Dry-land Fish,Happy
+362,The Dreamin' Kind,Songs From The Grass String Ranch,The Dreamin' Kind,Happy
+363,I Wish I Knew,Songs From The Grass String Ranch,I Wish I Knew,Happy
+364,Rock On,Songs From The Grass String Ranch,Rock On,Energetic
+365,Fomf (Fuck out My Face),Fomf (Fuck out My Face),Fomf (Fuck out My Face),Happy
+366,By The Side Of The Road,Baptizing,By The Side Of The Road,Sad
+367,Brother John,Baptizing,Brother John,Sad
+368,Dreaming Of A Little Cabin,Baptizing,Dreaming Of A Little Cabin,Sad
+369,Falling Leaves,Baptizing,Falling Leaves,Sad
+370,He Took Your Place,Baptizing,He Took Your Place,Sad
+371,Take Him In,Baptizing,Take Him In,Sad
+372,Hobo On A Freight Train To Heaven,Baptizing,Hobo On A Freight Train To Heaven,Sad
+373,Will You Be Ready To Go Home?,Baptizing,Will You Be Ready To Go Home?,Sad
+374,Were You There?,Baptizing,Were You There?,Sad
+375,Walk With Him Again,Baptizing,Walk With Him Again,Sad
+376,Gospel Medley,Baptizing,Gospel Medley,Sad
+377,Anthem for the Year 2000,The Best Of - Volume One,Anthem for the Year 2000,Happy
+378,Freak,The Best Of - Volume One,Freak,Energetic
+379,Ana's Song (Open Fire),The Best Of - Volume One,Ana's Song (Open Fire),Sad
+380,Emotion Sickness,The Best Of - Volume One,Emotion Sickness,Sad
+381,Israel's Son,The Best Of - Volume One,Israel's Son,Energetic
+382,Tomorrow,The Best Of - Volume One,Tomorrow,Energetic
+383,Cemetery,The Best Of - Volume One,Cemetery,Sad
+384,The Door,The Best Of - Volume One,The Door,Energetic
+385,Miss You Love,The Best Of - Volume One,Miss You Love,Sad
+386,Abuse Me,The Best Of - Volume One,Abuse Me,Sad
+387,Pure Massacre,The Best Of - Volume One,Pure Massacre,Energetic
+388,Untitled,The Best Of - Volume One,Untitled,Happy
+389,New Race,The Best Of - Volume One,New Race,Energetic
+390,Trash,The Best Of - Volume One,Trash,Energetic
+391,Ana's Song (Open Fire) - Acoustic Re-Mix,The Best Of - Volume One,Ana's Song (Open Fire) - Acoustic Re-Mix,Sad
+392,Madman - Vocal Mix,The Best Of - Volume One,Madman - Vocal Mix,Happy
+393,Blind,The Best Of - Volume One,Blind,Energetic
+394,Punk Song 2,The Best Of - Volume One,Punk Song 2,Energetic
+395,Wasted / Fix Me,The Best Of - Volume One,Wasted / Fix Me,Energetic
+396,Minor Threat,The Best Of - Volume One,Minor Threat,Energetic
+397,Freak - Remix for Us Rejects,The Best Of - Volume One,Freak - Remix for Us Rejects,Happy
+398,Running Up The Stairs,Great Big Boy,Running Up The Stairs,Sad
+399,The Other Day (Near Santa Cruz),Great Big Boy,The Other Day (Near Santa Cruz),Happy
+400,Great Big Boy,Great Big Boy,Great Big Boy,Sad
+401,Driver,Great Big Boy,Driver,Sad
+402,Pepe Hush,Great Big Boy,Pepe Hush,Sad
+403,Big Mob On The Hill,Great Big Boy,Big Mob On The Hill,Happy
+404,Ice Cream,Great Big Boy,Ice Cream,Sad
+405,Nothin' Works,Great Big Boy,Nothin' Works,Happy
+406,Summer's Growing Old,Great Big Boy,Summer's Growing Old,Sad
+407,I Still Miss Someone,Great Big Boy,I Still Miss Someone,Sad
+408,Hawks Circle the Mountain,Terminal Twilight,Hawks Circle the Mountain,Sad
+409,Snowswept,Terminal Twilight,Snowswept,Sad
+410,Kansas Regrets,Terminal Twilight,Kansas Regrets,Calm
+411,Red Leaves,Terminal Twilight,Red Leaves,Sad
+412,Floor 67,Terminal Twilight,Floor 67,Sad
+413,Natasha of the Burning Woods,Terminal Twilight,Natasha of the Burning Woods,Sad
+414,Searise,Terminal Twilight,Searise,Sad
+415,A Rumour of Twilight,Terminal Twilight,A Rumour of Twilight,Calm
+416,The Howling Wind,Terminal Twilight,The Howling Wind,Sad
+417,Harass Me,Harass Me,Harass Me,Happy
+418,Chow Down,Sick'em,Chow Down,Happy
+419,Tired Of Nothing,Sick'em,Tired Of Nothing,Happy
+420,Knot,Sick'em,Knot,Happy
+421,In Lust You Trust,Sick'em,In Lust You Trust,Sad
+422,Sink,Sick'em,Sink,Happy
+423,Gun,Sick'em,Gun,Energetic
+424,Lorna,Sick'em,Lorna,Energetic
+425,You Smell Lonely,Sick'em,You Smell Lonely,Energetic
+426,No Fucking War,Sick'em,No Fucking War,Energetic
+427,Dead Men Don't Rape,Sick'em,Dead Men Don't Rape,Energetic
+428,8-Ball Deluxe,Sick'em,8-Ball Deluxe,Energetic
+429,Can We Laugh Now ?,Sick'em,Can We Laugh Now ?,Happy
+430,Girl Germs,Kill Rock Stars,Girl Germs,Sad
+431,Loch Ness,Kill Rock Stars,Loch Ness,Energetic
+432,Don't Mix the Colors,Kill Rock Stars,Don't Mix the Colors,Happy
+433,N.O.U. Cooking With Gas!,Kill Rock Stars,N.O.U. Cooking With Gas!,Sad
+434,You Speak Jealousy,Kill Rock Stars,You Speak Jealousy,Energetic
+435,Narrow,Kill Rock Stars,Narrow,Sad
+436,My Red Self,Kill Rock Stars,My Red Self,Sad
+437,"Strong, Warm, and in Command",Kill Rock Stars,"Strong, Warm, and in Command",Happy
+438,Feels Blind,Kill Rock Stars,Feels Blind,Energetic
+439,Reaper Song,Kill Rock Stars,Reaper Song,Energetic
+440,Ever Since My Accident,Kill Rock Stars,Ever Since My Accident,Energetic
+441,Immediate Impound Zone,Kill Rock Stars,Immediate Impound Zone,Sad
+442,Make You Come,Kill Rock Stars,Make You Come,Happy
+443,Everybody and Their Dog,Kill Rock Stars,Everybody and Their Dog,Energetic
+444,Red Dress,Kill Rock Stars,Red Dress,Happy
+445,8-Ball Deluxe,Kill Rock Stars,8-Ball Deluxe,Energetic
+446,I.O.U.,Kill Rock Stars,I.O.U.,Happy
+447,You Will Be A Hot Dancer,Enjoy Incubus,You Will Be A Hot Dancer,Energetic
+448,Shaft,Enjoy Incubus,Shaft,Energetic
+449,Take Me to Your Leader,Enjoy Incubus,Take Me to Your Leader,Energetic
+450,Version,Enjoy Incubus,Version,Energetic
+451,Azwethinkweiz,Enjoy Incubus,Azwethinkweiz,Happy
+452,Hilikus,Enjoy Incubus,Hilikus,Energetic
+453,Hidden Bonus,Enjoy Incubus,Hidden Bonus,Sad
+454,My Squad (Moskva),My Squad (Moskva),My Squad (Moskva),Happy
+455,Good Clean Fun,Seven Turns,Good Clean Fun,Happy
+456,Let Me Ride,Seven Turns,Let Me Ride,Happy
+457,Low Down Dirty Mean,Seven Turns,Low Down Dirty Mean,Happy
+458,Shine It On,Seven Turns,Shine It On,Happy
+459,Loaded Dice,Seven Turns,Loaded Dice,Happy
+460,Seven Turns,Seven Turns,Seven Turns,Happy
+461,Gambler's Roll,Seven Turns,Gambler's Roll,Sad
+462,True Gravity,Seven Turns,True Gravity,Sad
+463,It Ain't Over Yet,Seven Turns,It Ain't Over Yet,Happy
+464,The Devil Went Down to Georgia,A Decade Of Hits,The Devil Went Down to Georgia,Happy
+465,The South's Gonna Do It Again,A Decade Of Hits,The South's Gonna Do It Again,Happy
+466,Stroker's Theme,A Decade Of Hits,Stroker's Theme,Happy
+467,Uneasy Rider,A Decade Of Hits,Uneasy Rider,Happy
+468,Let It Roll,A Decade Of Hits,Let It Roll,Energetic
+469,In America,A Decade Of Hits,In America,Happy
+470,Still In Saigon,A Decade Of Hits,Still In Saigon,Happy
+471,Long Haired Country Boy,A Decade Of Hits,Long Haired Country Boy,Happy
+472,The Legend Of Wooley Swamp,A Decade Of Hits,The Legend Of Wooley Swamp,Sad
+473,Everytime I See Him,A Decade Of Hits,Everytime I See Him,Happy
+474,Not Quite You and Me,Stories I Could Tell,Not Quite You and Me,Sad
+475,34 to 96,Stories I Could Tell,34 to 96,Sad
+476,Serenity,Stories I Could Tell,Serenity,Sad
+477,Ridin' Shotgun,Stories I Could Tell,Ridin' Shotgun,Sad
+478,Simple,Stories I Could Tell,Simple,Sad
+479,Across the Pond,Stories I Could Tell,Across the Pond,Sad
+480,Wild Ride,Stories I Could Tell,Wild Ride,Sad
+481,This Dance,Stories I Could Tell,This Dance,Sad
+482,Dave,Stories I Could Tell,Dave,Sad
+483,'66 Falcon,Stories I Could Tell,'66 Falcon,Sad
+484,Return to Tunguska,A Valid Path,Return to Tunguska,Sad
+485,More Lost Without You,A Valid Path,More Lost Without You,Happy
+486,Mammagamma 04,A Valid Path,Mammagamma 04,Happy
+487,We Play the Game,A Valid Path,We Play the Game,Sad
+488,Tijuaniac,A Valid Path,Tijuaniac,Calm
+489,L’Arc en Ciel,A Valid Path,L’Arc en Ciel,Happy
+490,A Recurring Dream Within a Dream,A Valid Path,A Recurring Dream Within a Dream,Sad
+491,You Can Run,A Valid Path,You Can Run,Happy
+492,Chomolungma,A Valid Path,Chomolungma,Sad
+493,The Wizard - Live,Ozzfest 2001 The Second Millennium,The Wizard - Live,Energetic
+494,The Love Song - Live,Ozzfest 2001 The Second Millennium,The Love Song - Live,Energetic
+495,New Abortion - Live,Ozzfest 2001 The Second Millennium,New Abortion - Live,Energetic
+496,Blood Brothers - Live,Ozzfest 2001 The Second Millennium,Blood Brothers - Live,Energetic
+497,With You - Live,Ozzfest 2001 The Second Millennium,With You - Live,Energetic
+498,Super Terrorizer - Live,Ozzfest 2001 The Second Millennium,Super Terrorizer - Live,Energetic
+499,Fear - Live,Ozzfest 2001 The Second Millennium,Fear - Live,Energetic
