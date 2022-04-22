@@ -74,7 +74,7 @@ const Form = () => {
           cols={4}
           //   required
         />
-        <span>{mood}</span>
+        <h2 className="moodOutput">{mood}</h2>
         <button variant="primary" type="submit">
           Submit
         </button>
